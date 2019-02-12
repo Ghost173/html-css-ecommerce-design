@@ -10,3 +10,4 @@ only we jave to use html, css and bootsstrap no any other lanugaes
 # screen shots 
 
 ![carouselimg](/screenshots/carousel1.png)
+![2](/screenshots/2.png)
