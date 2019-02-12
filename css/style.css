@@ -1,3 +1,8 @@
 .bg-black{
     background-color:rgba(14,14,14,1.00)
 }
+
+.carousel-caption{
+    top: 200px;
+    
+}
