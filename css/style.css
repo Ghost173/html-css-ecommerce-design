@@ -16,3 +16,11 @@
     border: 2px solid #f0644f ;
     border-right: 2px solid white;
 }
+.underline{
+    width: 100px;
+    height: 2px;
+    background-color: orangered;
+}
+.bg-light-gray{
+    background-color: rbga(111, 111, 111, 0.09);
+}
