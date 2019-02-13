@@ -1,14 +1,13 @@
 # htmls-cdd-ecommerce-design
+HTML,CSS,BOOTSTRAP E-Commerce design only
 
-this is i create for my UI/UX class work 
 
-### task 
-only we have to use html, css and bootsstrap no any other lanugaes 
-
-#use
 
 # screen shots 
 
 ![carouselimg](/screenshots/carousel1.png)
 ![2](/screenshots/2.png)
 ![3](/screenshots/3.png)
+![4](/screenshots/4.png)
+![5](/screenshots/5.png)
+![6](/screenshots/6.png)
